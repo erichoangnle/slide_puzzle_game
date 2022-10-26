@@ -4,7 +4,7 @@ A simple and relaxing (or frustrating) game I played in my childhood.
 
 ## Description
 
-![Interface!](readme_img/1.png "Interfacer")
+![Interface!](readme_img/1.jpg "Interfacer")
 
 Made with PyGame.
 
